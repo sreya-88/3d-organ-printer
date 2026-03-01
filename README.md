@@ -1,19 +1,19 @@
-# @babel/core
+# @babel/plugin-transform-react-jsx-source
 
-> Babel compiler core.
+> Add a __source prop to all JSX Elements
 
-See our website [@babel/core](https://babeljs.io/docs/babel-core) for more information or the [issues](https://github.com/babel/babel/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3A%22pkg%3A%20core%22+is%3Aopen) associated with this package.
+See our website [@babel/plugin-transform-react-jsx-source](https://babeljs.io/docs/babel-plugin-transform-react-jsx-source) for more information.
 
 ## Install
 
 Using npm:
 
 ```sh
-npm install --save-dev @babel/core
+npm install --save-dev @babel/plugin-transform-react-jsx-source
 ```
 
 or using yarn:
 
 ```sh
-yarn add @babel/core --dev
+yarn add @babel/plugin-transform-react-jsx-source --dev
 ```
